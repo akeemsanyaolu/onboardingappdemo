@@ -59,7 +59,7 @@ class SignUp extends StatelessWidget {
                       decoration: BoxDecoration(
                           color: const Color(0xFFFFC727),
                           borderRadius: BorderRadius.circular(100)),
-                      child: Icon(
+                      child: const Icon(
                         Icons.wechat,
                         size: 30,
                       ),
@@ -70,7 +70,7 @@ class SignUp extends StatelessWidget {
                       decoration: BoxDecoration(
                           color: const Color(0xFFFFC727),
                           borderRadius: BorderRadius.circular(100)),
-                      child: Icon(
+                      child: const Icon(
                         Icons.facebook,
                         size: 30,
                       ),
@@ -81,7 +81,7 @@ class SignUp extends StatelessWidget {
                       decoration: BoxDecoration(
                           color: const Color(0xFFFFC727),
                           borderRadius: BorderRadius.circular(100)),
-                      child: Icon(
+                      child: const Icon(
                         Icons.apple,
                         size: 30,
                       ),
