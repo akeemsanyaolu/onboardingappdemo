@@ -89,7 +89,6 @@ class SignUp extends StatelessWidget {
                   ],
                 ),
               ),
-
               const Spacer(
                 flex: 8,
               ),
@@ -106,7 +105,6 @@ class SignUp extends StatelessWidget {
                       fillColor: Colors.white),
                 ),
               ),
-              //const Spacer(),
               const SizedBox(
                 width: 350,
                 height: 68,
@@ -162,7 +160,6 @@ class SignUp extends StatelessWidget {
               const Spacer(
                 flex: 2,
               ),
-
               RichText(
                   text: const TextSpan(children: <TextSpan>[
                 TextSpan(
